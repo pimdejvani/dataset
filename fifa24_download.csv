@@ -1,0 +1,142 @@
+region,team,name,ovr,pot1,pot2
+england,arsenal,odegaard,87,8,7
+england,arsenal,saka,86,10,
+england,arsenal,rice,85,6,7
+england,arsenal,garbiel,85,3,4
+england,arsenal,partey,85,6,7
+england,arsenal,jesus,84,9,11
+england,arsenal,ramsdale,84,1,
+england,arsenal,martinelli,84,11,
+england,aston villa,martinez,85,1,
+england,aston villa,diaby,84,10,
+england,chealsea,nkunku,86,9,11
+england,chealsea,lukaku,84,9,
+england,chealsea,silva,84,3,
+england,chealsea,james,84,2,
+england,liverpool,salah,89,10,
+england,liverpool,van dijk,89,4,3
+england,liverpool,alisson,89,1,
+england,liverpool,robertson,86,5,
+england,liverpool,alexsander-arnold,86,2,
+england,liverpool,jota,85,9,11
+england,liverpool,diaz,84,11,
+england,liverpool,thiago,84,8,7
+england,manchester united,casemiro,89,6,7
+england,manchester united,fernandes,88,8,7
+england,manchester united,rashford,85,11,
+england,manchester united,varane,85,3,4
+england,manchester united,onana,85,1,
+england,manchester united,martinez,84,4,3
+england,manchestercity,haaland,91,9,
+england,manchestercity,de bruyne,91,8,7
+england,manchestercity,rodri,89,6,
+england,manchestercity,dias,89,3,4
+england,manchestercity,silva,88,8,
+england,manchestercity,ederson,88,1,
+england,manchestercity,cancelo,86,2,5
+england,manchestercity,foden,85,10,
+england,manchestercity,grealish,85,11,
+england,manchestercity,stones,85,3,4
+england,manchestercity,laporte,85,4,3
+england,manchestercity,walker,84,2,
+england,newcastle,tonali,86,6,7
+england,newcastle,trippier,85,2,
+england,newcastle,pope,84,1,
+england,newcastle,guimaraes,84,7,6
+england,squr,kane,90,9,
+england,squr,son,87,11,
+england,squr,maddison,84,8,
+england,squr,hojbjerg,84,6,7
+france,paris sg,mbappe,91,11,9
+france,paris sg,neymar,89,11,
+france,paris sg,marquinhos,87,3,4
+france,paris sg,donnarumma,87,1,
+france,paris sg,verratti,86,7,6
+france,paris sg,navas,85,1,
+france,paris sg,skriniar,84,3,4
+france,paris sg,hernandez,84,4,3
+france,paris sg,hakimi,84,2,
+german,borussia dortmun,kobel,87,1,11
+german,borussia dortmun,brandt,84,8,7
+german,borussia dortmun,sule,84,3,4
+german,fc bayern munchen,kimmich,88,6,4
+german,fc bayern munchen,nueur,87,1,
+german,fc bayern munchen,de ligt,86,3,4
+german,fc bayern munchen,musiala,86,8,
+german,fc bayern munchen,goretzka,85,7,6
+german,fc bayern munchen,coman,85,11,10
+german,fc bayern munchen,sane,84,10,
+german,fc bayern munchen,muller,84,8,
+german,fc bayern munchen,gnabry,84,11,
+german,fc bayern munchen,kim min jea,84,3,4
+german,frankfurt,trapp,85,1,
+german,frankfurt,kolo muani,84,9,
+german,rb leipzig,gulacsi,84,1,
+german,sc freiburg,ginter,84,3,4
+german,leverkusen,wirtz,85,8,
+german,leverkusen,grimaldo,84,5,
+italy,inter,martinez,87,9,10
+italy,inter,barella,86,7,6
+italy,inter,calhanoglu,85,7,6
+italy,inter,bastoni,85,3,4
+italy,inter,sommer,84,1,
+italy,juventus,szczesny,86,1,
+italy,juventus,bremer,84,3,4
+italy,juventus,chiesa,84,11,
+italy,juventus,rabiot,84,7,6
+italy,latium,immobile,85,9,
+italy,latium,luis alberto,84,7,
+italy,milan,maignan,87,1,
+italy,milan,leao,86,11,
+italy,milan,hernandez,85,5,
+italy,milan,bennacer,84,7,
+italy,milan,tomori,84,3,4
+italy,napoli,osimhen,88,9,
+italy,napoli,kvaratskhelia,86,11,
+italy,napoli,di lorenzo,85,2,
+italy,napoli,lobotka,84,7,
+italy,roma,dybala,86,9,10
+italy,roma,smalling,84,3,4
+italy,sassuolo,berardi,85,10,
+saudi arabia,al ahli,mahrez,86,10,
+saudi arabia,al hilal,milinkovi-savic,86,7,
+saudi arabia,al hilal,neves,84,7,6
+saudi arabia,al hilal,koulibaly,84,3,4
+saudi arabia,al ittihad,benzema,90,9,
+saudi arabia,al ittihad,kante,85,6,
+saudi arabia,al ittihad,fabinho,84,6,7
+saudi arabia,al nassr,ronaldo,86,9,
+saudi arabia,al nassr,mane,86,11,
+spain,athletic,simon,85,1,10
+spain,aletico de madrid,griezmann,88,9,10
+spain,aletico de madrid,oblak,88,1,
+spain,aletico de madrid,de paul,84,7,
+spain,aletico de madrid,carrasco,84,11,
+spain,aletico de madrid,depay,84,11,9
+spain,aletico de madrid,llorente,84,7,6
+spain,aletico de madrid,koke,84,7,
+spain,barcelona,lewandowski,90,9,
+spain,barcelona,ter stegem,89,1,
+spain,barcelona,de jong,87,7,6
+spain,barcelona,pedri,86,7,6
+spain,barcelona,dembele,86,10,
+spain,barcelona,gundogun,86,7,6
+spain,barcelona,arujho,86,3,4
+spain,barcelona,kounde,85,2,3
+spain,barcelona,raphinha,84,11,
+spain,real madrid,courtois,90,1,
+spain,real madrid,vini jr.,89,11,
+spain,real madrid,valverde,88,8,7
+spain,real madrid,modric,87,7,8
+spain,real madrid,militao,86,3,4
+spain,real madrid,bellingham,86,8,7
+spain,real madrid,kroos,86,7,8
+spain,real madrid,rodrygo,85,10,
+spain,real madrid,rudiger,85,3,4
+spain,real madrid,alaba,85,4,5
+spain,real madrid,tchouameni,84,6,7
+spain,real sociedad,merino,84,7,
+spain,real sociedad,remiro,84,1,
+spain,sevilla,acuna,85,5,
+spain,sevilla,bounou,85,1,
+united states,inter miami,messi,90,10,9
