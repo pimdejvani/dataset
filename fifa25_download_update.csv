@@ -1,12 +1,12 @@
 region,team,name,ovr,pot1,pot2
-england,arsenal,odegaard,87,8,7
 england,arsenal,saka,88,10,
+england,arsenal,odegaard,87,8,7
 england,arsenal,rice,87,6,7
 england,arsenal,saliba,87,3,4
 england,arsenal,gabriel,87,4,3
+england,arsenal,raya,86,1,
 england,arsenal,white,84,3,2
 england,arsenal,merino,84,7,
-england,arsenal,raya,86,1,
 england,aston villa,martinez,86,1,
 england,aston villa,watkins,84,9,11
 england,chealsea,palmer,87,8,
@@ -16,16 +16,16 @@ england,liverpool,alisson,89,1,
 england,liverpool,mac allister,86,7,8
 england,liverpool,alexander-arnold,86,2,
 england,liverpool,diaz,85,11,
+england,liverpool,konate,85,3,4
 england,liverpool,gakpo,84,9,11
 england,liverpool,gravenberg,84,7,8
-england,liverpool,konate,85,3,4
 england,manchester city,rodri,91,6,7
-england,manchester city,de bruyne,89,8,7
 england,manchester city,haaland,90,9,
-england,manchester city,foden,86,10,
-england,manchester city,silva,85,7,8
-england,manchester city,dias,86,4,3
+england,manchester city,de bruyne,89,8,7
 england,manchester city,ederson,88,1,
+england,manchester city,foden,86,10,
+england,manchester city,dias,86,4,3
+england,manchester city,silva,85,7,8
 england,manchester city,gundogan,84,7,6
 england,manchester city,marmoush,84,9,11
 england,manchester city,gvardiol,84,5,4
@@ -39,26 +39,26 @@ england,squr,kiulusevski,84,10,
 france,paris sg,donnarumma,87,1,
 france,paris sg,marquinhos,87,3,4
 france,paris sg,dembele,87,10,
-france,paris sg,vitinha,85,7,
 france,paris sg,hakimi,86,2,
+france,paris sg,vitinha,85,7,
 france,paris sg,kvaratskhelia,85,11,
 france,paris sg,neves,84,6,7
 german,borussia dortmun,kobel,86,1,
-german,borussia dortmun,schlotterbeck,85,3,4
 german,borussia dortmun,guirassy,86,9,
+german,borussia dortmun,schlotterbeck,85,3,4
 german,fc bayern munchen,kane,90,9,
 german,fc bayern munchen,musiala,88,9,11
 german,fc bayern munchen,kimmich,88,6,2
+german,fc bayern munchen,upamecano,85,3,4
+german,fc bayern munchen,olise,85,10,
 german,fc bayern munchen,neuer,84,1,
 german,fc bayern munchen,sane,84,10,
 german,fc bayern munchen,coman,84,11,
-german,fc bayern munchen,upamecano,85,3,4
 german,fc bayern munchen,davies,84,5,
-german,fc bayern munchen,olise,85,10,
-german,leverkusen,grimaldo,85,5,
 german,leverkusen,wirtz,89,8,
 german,leverkusen,tah,87,3,4
 german,leverkusen,xhaka,86,7,8
+german,leverkusen,grimaldo,85,5,
 german,leverkusen,frimpong,84,2,
 german,leverkusen,schick,84,9,
 german,leverkusen,palacios,84,6,7
@@ -77,38 +77,37 @@ italy,inter,acerbi,84,3,4
 italy,inter,pavard,84,3,2
 italy,inter,thuram,84,9,11
 italy,juventus,bremer,86,3,4
-italy,milan,hernandez,86,5,
 italy,milan,maignan,87,1,
+italy,milan,hernandez,86,5,
 italy,milan,leao,85,11,
 italy,milan,pulisic,84,11,
 italy,milan,rejinders,84,7,6
-turkey,galatasaray,osimhen,87,9,
 italy,roma,dyblal,86,8,10
 portugal,fc porto,costa,84,1,
 portugal,sporting lb,gyokeres,86,9,
 saudi arabia,al ahli,mahrez,85,10,
+saudi arabia,al ahli,mahrez,85,10,
 saudi arabia,al hilal,milinkovic-savic,85,7,6
-saudi arabia,al hilal,neves,84,7,6
 saudi arabia,al hilal,cancelo,85,6,2
+saudi arabia,al hilal,neves,84,7,6
 saudi arabia,al ittihad,benzema,86,9,
 saudi arabia,al ittihad,kante,85,6,
 saudi arabia,al nassr,ronaldo,85,9,
 saudi arabia,al nassr,mane,84,11,9
-saudi arabia,al ahli,mahrez,85,10,
+spain,aletico de madrid,oblak,88,1,
+spain,aletico de madrid,griezmann,87,9,10
+spain,aletico de madrid,alavarez,86,10,9
+spain,aletico de madrid,de pual,84,7,
 spain,athletic club,william,85,11,
 spain,athletic club,simon,85,1,
-spain,aletico de madrid,griezmann,87,9,10
-spain,aletico de madrid,oblak,88,1,
-spain,aletico de madrid,de pual,84,7,
-spain,aletico de madrid,alavarez,86,10,9
-spain,barcelona,ter stergen,88,1,
 spain,barcelona,lewansowski,89,9,
-spain,barcelona,de jong,86,7,6
-spain,barcelona,pedri,87,7,
-spain,barcelona,arujo,85,3,4
-spain,barcelona,kounde,86,3,2
+spain,barcelona,ter stergen,88,1,
 spain,barcelona,raphinha,88,11,
+spain,barcelona,pedri,87,7,
+spain,barcelona,de jong,86,7,6
+spain,barcelona,kounde,86,3,2
 spain,barcelona,lamine yamal,86,10,
+spain,barcelona,arujo,85,3,4
 spain,barcelona,szczesny,85,1,
 spain,barcelona,olmo,85,8,
 spain,barcelona,martinez,84,3,4
@@ -121,7 +120,8 @@ spain,real madrid,rudiger,86,3,4
 spain,real madrid,carvajal,86,2,
 spain,real madrid,rodrygo,86,10,
 spain,real madrid,modric,85,7,
-spain,real madrid,tchouameni,84,7,6
 spain,real madrid,militao,85,3,4
+spain,real madrid,tchouameni,84,7,6
 spain,real madrid,alaba,84,5,6
+turkey,galatasaray,osimhen,87,9,
 united states,inter miami,messi,87,10,9
